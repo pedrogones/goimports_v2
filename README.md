@@ -8,13 +8,6 @@ Leia o bootstrap completo:
 
 - [docs/GOIMPORTS-V2-BOOTSTRAP.md](docs/GOIMPORTS-V2-BOOTSTRAP.md)
 
-## Git (este repositório)
-
-```bash
-git config user.name "pedrogones"
-git config user.email "pedrotargin@gmail.com"
-```
-
 ## Stack alvo
 
 | Item | Valor |
